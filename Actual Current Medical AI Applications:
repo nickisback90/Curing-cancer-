@@ -1,0 +1,8 @@
+# Real research areas (simplified)
+def legitimate_research_directions():
+    return {
+        "drug_discovery": "AI-accelerated molecular screening",
+        "medical_imaging": "Improved cancer detection in scans", 
+        "genomic_analysis": "Pattern finding in genetic data",
+        "treatment_personalization": "Tailoring therapies to patients"
+    }
